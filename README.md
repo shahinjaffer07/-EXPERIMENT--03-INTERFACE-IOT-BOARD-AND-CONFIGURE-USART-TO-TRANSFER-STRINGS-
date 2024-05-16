@@ -37,7 +37,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 
 6. check for execution of the output using run option
-7. Opend serial port utility and check the outpu t
+7. Open serial port utility and check the output
 
 
 
